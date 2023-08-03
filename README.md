@@ -9,6 +9,7 @@ GitHub do Dev em Dobro: https://github.com/devemdobro
 ---
 
 This project was created from the videos of the Dev Em Dobro channel.
-Double Dev Channel: https://www.youtube.com/c/devemdobro
+
+Channel: https://www.youtube.com/c/devemdobro
 
 Dobro Dev's GitHub: https://github.com/devemdobro
